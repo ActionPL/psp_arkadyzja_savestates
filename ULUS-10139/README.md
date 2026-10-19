@@ -1,6 +1,6 @@
 **Game name:**
 
-Tekken - Dark Resurrection (USA) (En,Fr,De,Es,It)
+Tekken - Dark Resurrection (USA)
 
 **Game ID:**
 
